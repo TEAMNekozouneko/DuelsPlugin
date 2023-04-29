@@ -1,0 +1,16 @@
+amedouhu\duelsplugin\commands\Duels.class
+amedouhu\duelsplugin\events\PlayerDeathEvent.class
+amedouhu\duelsplugin\apis\ManageGame$1.class
+amedouhu\duelsplugin\events\PlayerStatisticIncrementEvent.class
+amedouhu\duelsplugin\apis\SendMessage.class
+amedouhu\duelsplugin\events\PlayerInteractEvent.class
+amedouhu\duelsplugin\commands\Developer.class
+amedouhu\duelsplugin\events\PlayerQuitEvent.class
+amedouhu\duelsplugin\commands\Settings.class
+amedouhu\duelsplugin\DuelsPlugin.class
+amedouhu\duelsplugin\events\PlayerDeathEvent$1.class
+amedouhu\duelsplugin\commands\Duels$1.class
+amedouhu\duelsplugin\events\EntityDamageEvent.class
+amedouhu\duelsplugin\apis\ArenaList.class
+amedouhu\duelsplugin\apis\ManageGame.class
+amedouhu\duelsplugin\apis\PlayerList.class

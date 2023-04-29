@@ -1,0 +1,14 @@
+name: DuelsPlugin
+version: '1.0.0.8'
+main: amedouhu.duelsplugin.DuelsPlugin
+api-version: 1.19
+commands:
+  developer:
+    description: Developer向けのオートデバッグ機能を持ちます。[Beta Preview]
+    usage: /developer <デバッグオプション>
+  duels:
+    description: Duelsにプレイヤーを追加/削除します。
+    usage: /duels <プレイヤー>
+  settings:
+    description: Duelsをカスタマイズします。
+    usage: /settings <設定項目> <値>
